@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmitrykosintsev
 - 👀 I’m interested in using IT to enhance teaching and learning
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, Swift, and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: DM
 
