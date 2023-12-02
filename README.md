@@ -2,7 +2,7 @@
 - 👀 I’m interested in using IT to enhance teaching and learning
 - 🌱 I’m currently learning Python, Swift, and Kotlin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: DM
+- 📫 How to reach me: DM or dmitry.kosintsev@gmail.com
 
 <!---
 dmitrykosintsev/dmitrykosintsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
